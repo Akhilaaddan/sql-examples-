@@ -1,0 +1,6 @@
+SQL > insert into emp values ( & empno,'&en', '&j', '&sal','&doj');
+Enter value for emp no : 1235
+enter value for en : arun 
+enter value for j : salesman
+enter value for sal : 7000
+enter value for doj : 23 - aug -2008
