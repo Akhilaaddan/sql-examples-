@@ -1,0 +1,6 @@
+create command 
+syntax: 
+create table < table-name> ( 
+<field-name><data _type> [constraint < constraint _name> constraint _type>, ..........
+...........
+.......]);
