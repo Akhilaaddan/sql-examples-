@@ -1,0 +1,9 @@
+SQL > Desc student ;
+
+output :
+
+Name                          type 
+......................................
+Rno                     Number (2)
+NAME                    varchar2(20)
+......................................
