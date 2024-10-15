@@ -1,0 +1,6 @@
+SQL > create table EMP (
+emp no   number (4),
+ename    varchar2(20),
+job      varchar2(15),
+sal      number(7, 2),
+doj      date);
