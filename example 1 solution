@@ -1,0 +1,3 @@
+SQL> create table student (
+Rno Number (2),
+Name Varchar2 (20));
